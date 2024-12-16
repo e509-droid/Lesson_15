@@ -1,0 +1,40 @@
+body {
+	font-family: 'Arial', sans-serif;
+	background-color: #f9f9f9;
+	margin: 0;
+	padding: 0;
+	color: #333;
+}
+
+.container {
+	max-width: 600px;
+	margin: 50px auto;
+	padding: 20px;
+	background-color: #ffffff;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	color: #444;
+}
+
+p {
+	line-height: 1.6;
+}
+
+ul {
+	margin-left: 20px;
+	list-style: circle;
+}
+
+ul ul {
+	list-style: square;
+	margin-left: 20px;
+}
+
+strong {
+	color: #2c3e50;
+}
